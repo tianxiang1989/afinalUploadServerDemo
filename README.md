@@ -1,3 +1,3 @@
 afinalUploadServerDemo
 ======================
-this project is test with the afinalUploadClientDemo
+this project is works with the afinalUploadClientDemo
